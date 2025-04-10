@@ -64,7 +64,8 @@ Jika tidak, buka link seperti ini: [http://localhost:8501](http://localhost:8501
 
 ## 📷 Screenshot Aplikasi
 
-![Tampilan Streamlit](screenshot.png)
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/0e7e551c-5316-4679-b7e3-f68ece148bc3" />
+
 
 ---
 
